@@ -4,6 +4,19 @@
   width: 150px;
 }
 
+#team {
+  display: none;
+}
+
+/* 31-3 SMALL DEVICES, TABLETS */
+@media screen and (min-width: 768px) {
+    
+
+  #team {
+    display: block;
+  }
+
+}
 
 /*
 
